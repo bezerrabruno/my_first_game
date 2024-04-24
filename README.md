@@ -1,4 +1,4 @@
-# My First Game v1.0.0+2
+# My First Game v1.0.0+3
 
 ClickMaster é um aplicativo simples e divertido que desafia os usuários a clicarem o máximo possível.
 Com uma interface minimalista e controles intuitivos, os usuários podem testar suas habilidades de clique
